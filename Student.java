@@ -12,6 +12,11 @@ public class Student {
     preferredSession.add(num3);
     preferredSession.add(num4);
     preferredSession.add(num5);
+    actualSession.add(0);
+    actualSession.add(0);
+    actualSession.add(0);
+    actualSession.add(0);
+    actualSession.add(0);
   }
   public String getName() {
     return name;

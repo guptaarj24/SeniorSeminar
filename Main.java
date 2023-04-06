@@ -122,8 +122,8 @@ class Main {
             return Integer.valueOf(s2.getTotalVotes()).compareTo(s1.getTotalVotes());
           }
         });
+    
     //declare 2D array of time slots and sessions
-
     boolean found = false;
     int sessionsIndex = 0;
     int column = 0;
@@ -174,9 +174,11 @@ class Main {
       } //close column while
     } //close for loop for sessions    
 
+    
+    //place students into schedule   
     int desiredSession = 0;
-    //place students into schedule
     for (int i = 0; i<allStudents.size(); i++) {
+      i = 2; //zzz
       for (int j = 0; j<5; j++) { //place student in five sessions
         desiredSession = allStudents.get(i).getPreferredSessionList().get(j);
         row = 0;
@@ -185,17 +187,88 @@ class Main {
           column = 0;
           while ((column<5) && (found==false)) {
             if (desiredSession==actSchedule[row][column].getNumber()) {
-              if (actSchedule[row][column].getStuList().size()<16) {
+              if ((actSchedule[row][column].getStuList().size()<16)
+                  && (allStudents.get(i).getActualSession().get(row)==0)) {
                 actSchedule[row][column].getStuList().add(allStudents.get(i));
+                allStudents.get(i).getActualSession().set(row, actSchedule[row][column].getNumber());
                 found = true;
               }
             }
             column++;
-          }
+          } //close column while
           row++;
+        } //close row while
+      } //close loop for preferred session list
+      i = allStudents.size(); //zzz
+    } //close loop for all students
+
+    //place students in sessions during time slots they never got assigned because their preferred sessions weren't available
+    for (int i = 0; i<allStudents.size(); i++) { //go through all the students
+      i = 2; //zzz
+      for (int j = 0; j<5; j++) { //go through ActualSession list
+        if (allStudents.get(i).getActualSession().get(j)==0) {
+          column = 4;
+          found = false;
+          while ((column>-1) && (found==false)) {
+            if (actSchedule[j][column].getStuList().size()<16) {
+              actSchedule[j][column].getStuList().add(allStudents.get(i));
+              allStudents.get(i).getActualSession().set(j, actSchedule[j][column].getNumber());
+              found = true;
+            }
+            column++;
+          } //close row while
         }
       }
-    }
+      i = allStudents.size(); //zzz
+    } //close loop for all students
+    
+
+    /*
+     //place students into schedule   
+    int desiredSession = 0;
+    int currentSlotIndex = 0;
+    for (int i = 0; i<allStudents.size(); i++) { //loop for all the students
+      for (int j = 0; j<5; j++) { //place student in five sessions so this is length of preferredSessionList
+        desiredSession = allStudents.get(i).getPreferredSessionList().get(j);
+        found = false;
+        int index = 0; //index of searching through ActualSession list
+        while ((index < 5) && (found==false)) { //find open slot in ActualSessionList
+          if (allStudents.get(i).getActualSession().get(index) == 0) {
+            currentSlotIndex = index;
+            found = true;
+          }
+          index++;
+        }
+        row = currentSlotIndex; //don't want to increment currentSlotIndex and lose value
+        column = 0;
+        while ((column<5) && (found==false)) {
+          if (desiredSession==actSchedule[row][column].getNumber()) {
+            if (actSchedule[row][column].getStuList().size()<16) {
+              actSchedule[row][column].getStuList().add(allStudents.get(i)); //place student in schedule attendance
+              allStudents.get(i).getActualSession().add(currentSlotIndex, actSchedule[row][column].getNumber()); //add the session number into student's list of actual sessions
+              found = true;
+            }
+          }
+          column++;
+        } //close while loop
+      } //close for loop going through all preferred sessions
+      for (int m = 0; m < 5; m++) {
+        if (allStudents.get(i).getActualSession().get(m)==0) {
+          column = 4;
+          found = false;
+          while ((column>-1) && (found==false)) {
+            if (actSchedule[m][column].getStuList().size()<16) {
+              actSchedule[m][column].getStuList().add(allStudents.get(i)); //place student in schedule attendance
+              allStudents.get(i).getActualSession().add(m, actSchedule[m][column].getNumber()); //add the session number into student's list of actual sessions
+            }
+            column--;
+          }
+        }
+      } 
+      i = allStudents.size(); //zzz 
+    } //close allStudents for loop 
+    */
+    
     
     //printing out schedule
     for (int tRow =0; tRow<5; tRow++) {
@@ -208,10 +281,18 @@ class Main {
     //printing out schedule of session objects
     for (int r = 0; r<5; r++) {
       for (int c = 0; c<5; c++) {
-        actSchedule[r][c].getName();
-        actSchedule[r][c].getStuList()
+        System.out.println(actSchedule[r][c].getName() + ": " + actSchedule[r][c].getStuNames() + "\n");
       }
     }
+
+    //printing out student's actual session list
+    for (int i = 0; i<allStudents.size(); i++) {
+      System.out.print("\n" + allStudents.get(i).getName() + ": ");
+      for (int j = 0; j<5; j++) {
+        System.out.print(allStudents.get(i).getActualSession().get(j) + ", ");
+      }
+    }
+    
   } //close main
 
   public static boolean checkPresenterConflict(int rowNum, int sessionNumber) {

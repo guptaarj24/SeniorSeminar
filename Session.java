@@ -52,4 +52,13 @@ public class Session {
   public ArrayList<Student> getStuList() {
     return stuList;
   }
+
+  public String getStuNames() {
+    String studentNames = "";
+    for (int i = 0; i<stuList.size(); i++) {
+      studentNames = studentNames + 
+        stuList.get(i).getName() + ", ";
+    }
+    return studentNames;
+  }
 }
