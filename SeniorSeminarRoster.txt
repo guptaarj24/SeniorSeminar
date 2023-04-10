@@ -1,0 +1,160 @@
+The following shows the sessions running at certain time slots
+1pm: 	1   9   14  5   15  
+2pm: 	2   6   10  12  7   
+3pm: 	15  3   11  4   16  
+4pm: 	16  18  13  1   9   
+5pm: 	7   8   17  2   6   
+
+The following shows each session with their session number, number of attendees, and a list of the attending students' names. It is in order of each row. 
+
+Adventure Calls: The Benefits and Challenges of Study Abroad (1): 16
+Alexandra Marie Pohl, Annabel August Forman, Helen Kovach, Herschel Morris Albert, Jack Michael Kestner Sullivan, Jacob Renner, Katelynn Renee Setters, Lily Taylor Farrell, Mary C. Harten, Stephen Holden Fatuzzo, Yuxi Yang, Nicholas Minh (Nick) Nguyen, Enyi Li, Emily Susan Gonzales, Grace Virginia Straley, Harrison (Miller) Lyle, 
+
+Emergency Medical Technician: Working in the Back of an Ambulance (9): 16
+Andrew Pendleton (Andy) Osborn, Francis Burse, Alec Daniel Hamall, Garrett Janning Dickerson, Aadhyasri Ramineni, Eric Robert Fleischmann, Emma Rachael McNeil, Eric William Kerschner, Paige E. Hettinger, Sean Christopher Stewart, Sterling Elijah Snell, Hannah Rose Hess, Jane (Janie) Reiring, Katherine Rhea Valen, Lindsey Renee Hoffman, Margaret Langdon (Maggie) Wright, 
+
+The Ins and Outs of Engineering Internships (14): 10
+Moseley Quinn (Mose) Hatcher, Bryon Michael Williamson, Gavin L. Cercek, Joshua Jabez (Josh) Payne, Samuel Taylor, Catherine M. Phillips, Grace (Morgan) Pfister, Sydney Renee Baker, Colin Sam, Kylan Young, 
+
+Community Organizing and College: Participating in Your College?s Democracy (5): 16
+Anthony Jacob (Tony) Buechly, Ruben Chandrakumar, Dylan Niles Thompson, Ethan Mikal Jeffries, William (Chase) Goings, Kayla M. Boaz, Mia E. Lutz, Molly Molloy Briggs, Olivia Audrey Yardley, Valen Irene Zalants, Victoria Louise (Tori) Keller, Ava Kellar, Trevor B. Puckett, Haotong Lu, Mia Masterson, Olivia Scheper, 
+
+The Road Less Traveled: Finding the Right Path for You (15): 16
+Emily Marie Ram, Hunter Levi Taylor, Manav Dev Midha, Nicholas William (Nick) Cordea, Nathaniel Whitney (Nate) Gerson, Maxwell Richard Folan, Radha Venkata Mangu, Jeremy Eller, Nathaniel Christopher (Nathan) Riemann, Nellie Yushuan Shih, Samantha Rose Brant, Samuel A. (Sam) Jaccaci, Abigail Maye (Abby) Maggard, Chloe Renee Webb, Frank Weston, Genevieve Claire (Nevie) Smith, 
+
+Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond (2): 16
+Alexandra Marie Pohl, Jacob Renner, Katelynn Renee Setters, Lily Taylor Farrell, Andrew Pendleton (Andy) Osborn, Anthony Jacob (Tony) Buechly, Emily Marie Ram, Francis Burse, Hunter Levi Taylor, Manav Dev Midha, Nicholas William (Nick) Cordea, Dylan Niles Thompson, Ruben Chandrakumar, Bryon Michael Williamson, Jeremy Eller, Joshua Jabez (Josh) Payne, 
+
+Community Service and Volunteering: Making an Impact as a College Student (6): 11
+Helen Kovach, Alec Daniel Hamall, Garrett Janning Dickerson, Nathaniel Whitney (Nate) Gerson, Eric William Kerschner, Chloe Renee Webb, Frank Weston, Genevieve Claire (Nevie) Smith, Kayla M. Boaz, Sydney Renee Baker, Victoria Louise (Tori) Keller, 
+
+Greek Life: From Animal House to Developing Tomorrow's Leaders (10): 15
+Mary C. Harten, Nicholas Minh (Nick) Nguyen, Enyi Li, Samantha Rose Brant, Paige E. Hettinger, Molly Molloy Briggs, Olivia Audrey Yardley, Valen Irene Zalants, Ava Kellar, Trevor B. Puckett, Haotong Lu, Mia Masterson, Olivia Scheper, Colin Sam, Kylan Young, 
+
+On-Campus Recruiting and the Coveted Junior Year Internship in Finance (12): 16
+Herschel Morris Albert, Gavin L. Cercek, Yuxi Yang, Nathaniel Christopher (Nathan) Riemann, Samuel Taylor, Sean Christopher Stewart, Sterling Elijah Snell, Catherine M. Phillips, Abigail Maye (Abby) Maggard, Grace (Morgan) Pfister, Hannah Rose Hess, Jane (Janie) Reiring, Katherine Rhea Valen, Lindsey Renee Hoffman, Margaret Langdon (Maggie) Wright, Mia E. Lutz, 
+
+Conquering the Concrete Jungle (7): 16
+Annabel August Forman, Jack Michael Kestner Sullivan, Stephen Holden Fatuzzo, Aadhyasri Ramineni, Emily Susan Gonzales, Eric Robert Fleischmann, Grace Virginia Straley, Harrison (Miller) Lyle, Maxwell Richard Folan, Moseley Quinn (Mose) Hatcher, Radha Venkata Mangu, Nellie Yushuan Shih, Emma Rachael McNeil, Ethan Mikal Jeffries, Samuel A. (Sam) Jaccaci, William (Chase) Goings, 
+
+The Road Less Traveled: Finding the Right Path for You (15): 16
+Helen Kovach, Mary C. Harten, Andrew Pendleton (Andy) Osborn, Alec Daniel Hamall, Emily Susan Gonzales, Sterling Elijah Snell, Grace (Morgan) Pfister, Hannah Rose Hess, Jane (Janie) Reiring, Katherine Rhea Valen, Kayla M. Boaz, Lindsey Renee Hoffman, Margaret Langdon (Maggie) Wright, Mia E. Lutz, Molly Molloy Briggs, Olivia Audrey Yardley, 
+
+Business Clubs: Campus Involvement and Professional Development (3): 10
+Herschel Morris Albert, Jacob Renner, Katelynn Renee Setters, Lily Taylor Farrell, Emily Marie Ram, Francis Burse, Hunter Levi Taylor, Dylan Niles Thompson, Nicholas Minh (Nick) Nguyen, Enyi Li, 
+
+Making an Impact: Being a Leader in Student Government (11): 16
+Ruben Chandrakumar, Ethan Mikal Jeffries, Samuel A. (Sam) Jaccaci, Chloe Renee Webb, Ava Kellar, Frank Weston, Genevieve Claire (Nevie) Smith, Sydney Renee Baker, Valen Irene Zalants, Victoria Louise (Tori) Keller, Trevor B. Puckett, Haotong Lu, Mia Masterson, Olivia Scheper, Colin Sam, Kylan Young, 
+
+College Decisions: Choosing a Historically Black College over a Predominately White Institution (4): 16
+Catherine M. Phillips, Eric Robert Fleischmann, Harrison (Miller) Lyle, Maxwell Richard Folan, Moseley Quinn (Mose) Hatcher, Gavin L. Cercek, Joshua Jabez (Josh) Payne, Nellie Yushuan Shih, Samantha Rose Brant, Samuel Taylor, Emma Rachael McNeil, Eric William Kerschner, Paige E. Hettinger, Sean Christopher Stewart, William (Chase) Goings, Abigail Maye (Abby) Maggard, 
+
+Thriving in a Highly Competitive College Environment (16): 16
+Alexandra Marie Pohl, Annabel August Forman, Jack Michael Kestner Sullivan, Stephen Holden Fatuzzo, Yuxi Yang, Anthony Jacob (Tony) Buechly, Manav Dev Midha, Nicholas William (Nick) Cordea, Garrett Janning Dickerson, Nathaniel Whitney (Nate) Gerson, Aadhyasri Ramineni, Grace Virginia Straley, Radha Venkata Mangu, Bryon Michael Williamson, Jeremy Eller, Nathaniel Christopher (Nathan) Riemann, 
+
+Thriving in a Highly Competitive College Environment (16): 10
+Jacob Renner, Francis Burse, Enyi Li, Emily Susan Gonzales, Sean Christopher Stewart, Ethan Mikal Jeffries, Grace (Morgan) Pfister, Victoria Louise (Tori) Keller, Ava Kellar, Kylan Young, 
+
+What Is Research When It's Not a R‚sum‚ Builder? (18): 16
+Helen Kovach, Mary C. Harten, Eric Robert Fleischmann, Harrison (Miller) Lyle, Radha Venkata Mangu, Samuel Taylor, Eric William Kerschner, Kayla M. Boaz, Molly Molloy Briggs, Trevor B. Puckett, Margaret Langdon (Maggie) Wright, Sydney Renee Baker, Haotong Lu, Mia Masterson, Olivia Scheper, Colin Sam, 
+
+So You Want to Play with Swords: Performance Martial Arts and Club Leadership (13): 16
+Yuxi Yang, Moseley Quinn (Mose) Hatcher, Joshua Jabez (Josh) Payne, Emma Rachael McNeil, Sterling Elijah Snell, Catherine M. Phillips, William (Chase) Goings, Frank Weston, Garrett Janning Dickerson, Grace Virginia Straley, Bryon Michael Williamson, Jeremy Eller, Hannah Rose Hess, Jane (Janie) Reiring, Katherine Rhea Valen, Lindsey Renee Hoffman, 
+
+Adventure Calls: The Benefits and Challenges of Study Abroad (1): 16
+Andrew Pendleton (Andy) Osborn, Emily Marie Ram, Hunter Levi Taylor, Nicholas William (Nick) Cordea, Alec Daniel Hamall, Nathaniel Whitney (Nate) Gerson, Aadhyasri Ramineni, Maxwell Richard Folan, Gavin L. Cercek, Nellie Yushuan Shih, Samantha Rose Brant, Paige E. Hettinger, Samuel A. (Sam) Jaccaci, Abigail Maye (Abby) Maggard, Chloe Renee Webb, Genevieve Claire (Nevie) Smith, 
+
+Emergency Medical Technician: Working in the Back of an Ambulance (9): 16
+Alexandra Marie Pohl, Herschel Morris Albert, Katelynn Renee Setters, Stephen Holden Fatuzzo, Nathaniel Christopher (Nathan) Riemann, Mia E. Lutz, Olivia Audrey Yardley, Valen Irene Zalants, Annabel August Forman, Jack Michael Kestner Sullivan, Lily Taylor Farrell, Anthony Jacob (Tony) Buechly, Manav Dev Midha, Dylan Niles Thompson, Nicholas Minh (Nick) Nguyen, Ruben Chandrakumar, 
+
+Conquering the Concrete Jungle (7): 13
+Francis Burse, Hunter Levi Taylor, Nicholas William (Nick) Cordea, Dylan Niles Thompson, Nicholas Minh (Nick) Nguyen, Abigail Maye (Abby) Maggard, Hannah Rose Hess, Jane (Janie) Reiring, Katherine Rhea Valen, Lindsey Renee Hoffman, Margaret Langdon (Maggie) Wright, Mia E. Lutz, Valen Irene Zalants, 
+
+Co-Ops and Engineering Internships: Gaining Professional Experience (8): 13
+Jack Michael Kestner Sullivan, Garrett Janning Dickerson, Bryon Michael Williamson, Gavin L. Cercek, Jeremy Eller, Joshua Jabez (Josh) Payne, Nathaniel Christopher (Nathan) Riemann, Nellie Yushuan Shih, Samantha Rose Brant, Samuel Taylor, Sean Christopher Stewart, Sydney Renee Baker, Trevor B. Puckett, 
+
+To Read or Not To Read? Interning in Publishing (17): 16
+Annabel August Forman, Yuxi Yang, Eric Robert Fleischmann, Victoria Louise (Tori) Keller, Helen Kovach, Catherine M. Phillips, Chloe Renee Webb, Frank Weston, Grace (Morgan) Pfister, Molly Molloy Briggs, Ava Kellar, Haotong Lu, Mia Masterson, Olivia Scheper, Colin Sam, Kylan Young, 
+
+Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond (2): 16
+Herschel Morris Albert, Mary C. Harten, Stephen Holden Fatuzzo, Alec Daniel Hamall, Nathaniel Whitney (Nate) Gerson, Harrison (Miller) Lyle, Moseley Quinn (Mose) Hatcher, Radha Venkata Mangu, Emma Rachael McNeil, Eric William Kerschner, Paige E. Hettinger, Ethan Mikal Jeffries, William (Chase) Goings, Genevieve Claire (Nevie) Smith, Kayla M. Boaz, Olivia Audrey Yardley, 
+
+Community Service and Volunteering: Making an Impact as a College Student (6): 16
+Manav Dev Midha, Enyi Li, Aadhyasri Ramineni, Emily Susan Gonzales, Grace Virginia Straley, Alexandra Marie Pohl, Jacob Renner, Katelynn Renee Setters, Lily Taylor Farrell, Andrew Pendleton (Andy) Osborn, Anthony Jacob (Tony) Buechly, Emily Marie Ram, Ruben Chandrakumar, Maxwell Richard Folan, Sterling Elijah Snell, Samuel A. (Sam) Jaccaci, 
+
+The following shows all the students and their five sessions' numbers in chronological order. 
+
+Alexandra Marie Pohl: 1, 2, 16, 9, 6, 
+Annabel August Forman: 1, 7, 16, 9, 17, 
+Helen Kovach: 1, 6, 15, 18, 17, 
+Herschel Morris Albert: 1, 12, 3, 9, 2, 
+Jack Michael Kestner Sullivan: 1, 7, 16, 9, 8, 
+Jacob Renner: 1, 2, 3, 16, 6, 
+Katelynn Renee Setters: 1, 2, 3, 9, 6, 
+Lily Taylor Farrell: 1, 2, 3, 9, 6, 
+Mary C. Harten: 1, 10, 15, 18, 2, 
+Stephen Holden Fatuzzo: 1, 7, 16, 9, 2, 
+Yuxi Yang: 1, 12, 16, 13, 17, 
+Andrew Pendleton (Andy) Osborn: 9, 2, 15, 1, 6, 
+Anthony Jacob (Tony) Buechly: 5, 2, 16, 9, 6, 
+Emily Marie Ram: 15, 2, 3, 1, 6, 
+Francis Burse: 9, 2, 3, 16, 7, 
+Hunter Levi Taylor: 15, 2, 3, 1, 7, 
+Manav Dev Midha: 15, 2, 16, 9, 6, 
+Nicholas William (Nick) Cordea: 15, 2, 16, 1, 7, 
+Dylan Niles Thompson: 5, 2, 3, 9, 7, 
+Nicholas Minh (Nick) Nguyen: 1, 10, 3, 9, 7, 
+Enyi Li: 1, 10, 3, 16, 6, 
+Ruben Chandrakumar: 5, 2, 11, 9, 6, 
+Alec Daniel Hamall: 9, 6, 15, 1, 2, 
+Garrett Janning Dickerson: 9, 6, 16, 13, 8, 
+Nathaniel Whitney (Nate) Gerson: 15, 6, 16, 1, 2, 
+Aadhyasri Ramineni: 9, 7, 16, 1, 6, 
+Emily Susan Gonzales: 1, 7, 15, 16, 6, 
+Eric Robert Fleischmann: 9, 7, 4, 18, 17, 
+Grace Virginia Straley: 1, 7, 16, 13, 6, 
+Harrison (Miller) Lyle: 1, 7, 4, 18, 2, 
+Maxwell Richard Folan: 15, 7, 4, 1, 6, 
+Moseley Quinn (Mose) Hatcher: 14, 7, 4, 13, 2, 
+Radha Venkata Mangu: 15, 7, 16, 18, 2, 
+Bryon Michael Williamson: 14, 2, 16, 13, 8, 
+Gavin L. Cercek: 14, 12, 4, 1, 8, 
+Jeremy Eller: 15, 2, 16, 13, 8, 
+Joshua Jabez (Josh) Payne: 14, 2, 4, 13, 8, 
+Nathaniel Christopher (Nathan) Riemann: 15, 12, 16, 9, 8, 
+Nellie Yushuan Shih: 15, 7, 4, 1, 8, 
+Samantha Rose Brant: 15, 10, 4, 1, 8, 
+Samuel Taylor: 14, 12, 4, 18, 8, 
+Emma Rachael McNeil: 9, 7, 4, 13, 2, 
+Eric William Kerschner: 9, 6, 4, 18, 2, 
+Paige E. Hettinger: 9, 10, 4, 1, 2, 
+Sean Christopher Stewart: 9, 12, 4, 16, 8, 
+Sterling Elijah Snell: 9, 12, 15, 13, 6, 
+Ethan Mikal Jeffries: 5, 7, 11, 16, 2, 
+Samuel A. (Sam) Jaccaci: 15, 7, 11, 1, 6, 
+Catherine M. Phillips: 14, 12, 4, 13, 17, 
+William (Chase) Goings: 5, 7, 4, 13, 2, 
+Abigail Maye (Abby) Maggard: 15, 12, 4, 1, 7, 
+Chloe Renee Webb: 15, 6, 11, 1, 17, 
+Frank Weston: 15, 6, 11, 13, 17, 
+Genevieve Claire (Nevie) Smith: 15, 6, 11, 1, 2, 
+Grace (Morgan) Pfister: 14, 12, 15, 16, 17, 
+Hannah Rose Hess: 9, 12, 15, 13, 7, 
+Jane (Janie) Reiring: 9, 12, 15, 13, 7, 
+Katherine Rhea Valen: 9, 12, 15, 13, 7, 
+Kayla M. Boaz: 5, 6, 15, 18, 2, 
+Lindsey Renee Hoffman: 9, 12, 15, 13, 7, 
+Margaret Langdon (Maggie) Wright: 9, 12, 15, 18, 7, 
+Mia E. Lutz: 5, 12, 15, 9, 7, 
+Molly Molloy Briggs: 5, 10, 15, 18, 17, 
+Olivia Audrey Yardley: 5, 10, 15, 9, 2, 
+Sydney Renee Baker: 14, 6, 11, 18, 8, 
+Valen Irene Zalants: 5, 10, 11, 9, 7, 
+Victoria Louise (Tori) Keller: 5, 6, 11, 16, 17, 
+Ava Kellar: 5, 10, 11, 16, 17, 
+Trevor B. Puckett: 5, 10, 11, 18, 8, 
+Haotong Lu: 5, 10, 11, 18, 17, 
+Mia Masterson: 5, 10, 11, 18, 17, 
+Olivia Scheper: 5, 10, 11, 18, 17, 
+Colin Sam: 14, 10, 11, 18, 17, 
+Kylan Young: 14, 10, 11, 16, 17, 
